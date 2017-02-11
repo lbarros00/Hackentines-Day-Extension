@@ -1,5 +1,5 @@
-# Hackentines-Day-Extension
-This chrome extension pops lovable and funny quotes for you when you click on the icon.
+ # Hackentines-Day-Extension
+This chrome extension, UpliftMe, pops lovable and funny quotes for you when you click on the icon.
 
 Beautiful Quote Researcher: @suphangkaew 
 
