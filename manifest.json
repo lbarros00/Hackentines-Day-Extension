@@ -1,0 +1,24 @@
+{
+  "manifest_version": 2,
+
+  "name": "UpliftMe",
+  "description": "This extension pops lovable and funny quotes for you when you click on the icon.",
+  "version": "1.0",
+  
+  "icons": {
+	"16": "heart_icon_16.png",
+	"48": "heart_icon_48.png",
+	"128": "heart_icon_128.png"
+  },
+
+  "browser_action": {
+    "default_icon": "heart_icon_16.png",
+    "default_popup": "popup.html",
+	"default_title": "UpliftMe"
+  },
+  
+  "permissions": [
+    "activeTab",
+    "https://ajax.googleapis.com/"
+  ]
+}
